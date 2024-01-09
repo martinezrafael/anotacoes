@@ -1,0 +1,12 @@
+{
+  "name": "anotacoes",
+  "version": "1.0.0",
+  "description": "Um local para guardar coisas que eu aprender sobre tecnologia.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

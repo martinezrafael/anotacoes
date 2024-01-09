@@ -1,0 +1,20 @@
+#DNS = Domain Name System
+O DNS converte o domínio em um número de ip final, onde está de fato o servidor.
+
+#IP = Internet Protocol
+
+# Computadores não se comunicam através de domínios, eles se comunicam através de ip's e os domínios servem apenas para nós humanos, decorarmos o endereço do site que queremos acessar.
+
+#Um servidor que hospeda um site, também possui um endereço de ip, é o que faz ser possível chegar nele
+
+# O processo para um computador acessar um site, é o seguinte:
+  - Meu computador, manda uma requisição com o domínio para o servidor DNS
+  - O servidor DNS converte o domínio em um endereço ip e devolve esse endereço ip para o meu computador;
+  - Com o endereço ip, o meu computador faz uma requisição para o servidor final. 
+
+
+# Registrar um domínio .com.br
+ - Registrant = Você
+ - Regitrar = 'https://registro.br/
+ - Registry = 'https://nic.br/'
+ - DNS Propagation Checker = 'https://www.whatsmydns.net/'
